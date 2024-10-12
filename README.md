@@ -18,8 +18,8 @@ Windows please try WSL to follow this write up.
 
 # Requirements
 
--- A Linux/MacOS workstation with a terminal working
--- Git, python and curl install
+-- A Linux/MacOS workstation with a terminal working<br>
+-- Git, python and curl install<br>
 -- Docker ready and started (deamon running)
 
 # I - Initialisation
