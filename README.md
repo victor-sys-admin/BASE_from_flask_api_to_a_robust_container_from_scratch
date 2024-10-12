@@ -20,7 +20,7 @@ Windows please try WSL to follow this write up.
 
 -- A Linux/MacOS workstation with a terminal working<br>
 -- Git, python and curl install<br>
--- Docker ready and started (deamon running)
+-- Docker ready and started (daemon running)
 
 # I - Initialisation
 
