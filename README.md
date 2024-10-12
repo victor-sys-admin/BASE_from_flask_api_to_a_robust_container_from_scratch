@@ -75,7 +75,7 @@ We expect a response like this :
 
 Get the health :
 ```sh
-curl 127.0.0.1:5000
+curl 127.0.0.1:5000/health
 ```
 
 We expect a response like this :
