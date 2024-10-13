@@ -9,7 +9,8 @@
 -- [2 - Initialise the project](#2---initialise-the-project)<br>
 [II - First steps in the projects](#ii---first-steps-in-the-projects)<br>
 -- [1 - Start the API server](#1---start-the-api-server)<br>
--- [2 - Test the API endpoints](#2---test-the-api-endpoints)
+-- [2 - Test the API endpoints](#2---test-the-api-endpoints)<br>
+[III - Get ready to ship it!](#iii---get-ready-to-ship-it)
 
 # Introduction
 
@@ -81,3 +82,7 @@ We expect a response like this :
 ```json
 {"success":"The API is UP"}
 ```
+
+# III - Get ready to ship it!
+
+Our blog article will soon be available [here](https://ultimdev.fr).
