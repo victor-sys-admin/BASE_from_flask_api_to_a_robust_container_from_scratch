@@ -85,4 +85,4 @@ We expect a response like this :
 
 # III - Get ready to ship it!
 
-Our blog article will soon be available [here](https://ultimdev.fr).
+Next steps on my blog [here](https://ultimdev.fr/from-flask-api-to-a-robust-container-from-scratch-2/).
