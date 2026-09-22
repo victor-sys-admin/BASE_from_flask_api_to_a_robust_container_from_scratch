@@ -85,4 +85,4 @@ We expect a response like this :
 
 # III - Get ready to ship it!
 
-Next steps on my blog [here](https://ultimdev.fr/from-flask-api-to-a-robust-container-from-scratch-2/).
+Next steps on my blog [here](https://gist.github.com/victor-sys-admin/4183ad80978009ffd2654c8989fdec64#file-01-from-flask-api-to-a-robust-container-from-scratch-md).
